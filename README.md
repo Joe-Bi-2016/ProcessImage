@@ -1,6 +1,6 @@
 # Image processing
 
-### Implement it using c++,opencl and cuda.
+### Implement it using c++, opengl, opencl and cuda.
 
 It use the sdk of base Ogre3d that i developed, and i implemented all the algorithms in C/C++, OpenGL, OpenCL, CUDA.
 
